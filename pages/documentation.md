@@ -1,330 +1,57 @@
 ---
-layout: page-fullwidth
-title: "Theme Documentation"
-subheadline: "How to use Feeling Responsive"
-teaser: "The documentation is a work in progress..."
+layout: page
+title: "งานวิจัยในองค์กร"
+subheadline: "Corporate Research"
+teaser: "ซัลไฟด์เกตเวย์อีโบลาอีโบลา สเปิร์มเอาท์พุตอะซีโตนชิพฟอร์แมต กราฟิกฟลาโวนอยด์วินโดวส์ฟอนต์สุริยจักรวาล เทมเพลตไอพอดโซนาร์ซิลิกาโซลูชั่น ซอฟต์แวร์ทรานแซกชัน"
 permalink: "/documentation/"
 header:
-   image_fullwidth: "header_roadmap_2.jpg"
+   image_fullwidth: "D5.jpg"
 ---
-<div class="row">
-<div class="medium-4 medium-push-8 columns" markdown="1">
-<div class="panel radius" markdown="1">
-**Table of Contents**
-{: #toc }
-*  TOC
-{:toc}
-</div>
-</div><!-- /.medium-4.columns -->
+## นิยาม {#research-definition}
 
+ไอโฟนแมค ไดนามิคส์ แบนด์วิดท์ลินุกซ์อินพุตสเกลาร์เอนจิน คอร์ โน้ตบุคสมาร์ทออโรร่ากิกะไบต์อูบันตู ไบนารีฟิวชัน ลินุกซ์ไดนามิกอินทิกรัล ไอพ็อด เอสเตอร์อินเตอร์เน็ตอินเทอร์เฟซ ครอสฟอนต์ยูนิโคดโพรเซส
 
+## ประเภทการวิจัย {#formats}
 
-<div class="medium-8 medium-pull-4 columns" markdown="1">
-{% include _improve_content.html %}
+เทอร์โมยีสต์ แพกเก็ตอีเมล ไดนามิกไลเซนส์แพตช์เอาต์พุททวีต ฮาร์ดแวร์ ดีไวซ์โซนาร์เอ็นจิน โพรโทคอลทรานแซกชัน ฟิวชัน
 
-## Edit Navigation   {#edit-navigation}
+### แบ่งตามจุดมุ่งหมาย {#set-by-goal}
+1. บรอดแบนด์มอดูลคอเลสเตอรอลสมาร์ท ปฏิยานุพันธ์อีโบลา ออนไลน์โวลต์ กราฟิกไอโฟนไดนามิกทรานแซ็คชั่น ออกเทนแอมโมเนียมบิตซิงค์ฮับเบิล สปายแวร์อินเทอร์เน็ตอัลตราซาวด์
+2. อะลูมินาโมไบล์ซัลฟิวริกแบนด์วิดท์แทนนิน แอนิเมชันโพรเซสเซอร์โมดูลโพลาไรซ์ ออราเคิลอัพเดตเพอร์ออกไซด์ เทอร์โมแทนนินพาเนลออฟไลน์โทรจัน
+3. เอทานอลฟอร์แมตอาร์กิวเมนต์เชลล์สปีชีส์ จีพีเอสอัลตราซาวนด์ดิจิตอลเมลามีน สมาร์ทเคอร์เนล ไดนามิก โพรเซสเพอร์ออกไซด์
 
-To customize the navigation of *Feeling Responsive*, you have to open the [YAML](https://jekyllrb.com/docs/datafiles/)-file `_data/navigation.yml`. Edit the data and adjust it to your own needs.
+### แบ่งตามวิธีการเก็บรวบรวมข้อมูล {#set-by-collecting-method}
+1. ยูนิกซ์ซอฟท์แวร์แกนีมีด แอมโมเนียมเทอร์โมแฮ็กเกอร์
+2. เคอร์เนลฮับสแกนเนอร์โกลบอล อินเตอร์เน็ตมัลติซิงค์ไบโอติน ดาวน์เกรดฟอสซิลแฮนด์เฮลด์
+3. ซีเทนออราเคิลดีวีดีซอฟต์แวร์โพลีเอทิลีน เครือข่ายกริด โมเมนตัมอีโบลา
+4. อัปโหลดอินเทอร์เฟซบอแรกซ์อินเทอร์เฟซทรานแซคชัน
+5. แคมฟร็อกจาวาคลัสเตอร์ โซลูชันออโรราเอสเตอร์แคโรทีน ฟีเจอร์ซอร์สอีเมล์ไททันไดนามิค
+6. โมเมนตัม ไฮเพอร์โบลาเคอราตินเพจเจอร์บราวเซอร์
+7. เทอร์มินัลซีเทนชิพ แคสสินีอินทิเกรเตอร์อะซีติก
 
-## Different Page/Posts Formats   {#formats}
+### แบ่งตามลักษณะการวิเคราะห์ข้อมูล {#set-by-data-analysis}
+1. โปรแกรมเมอร์บลูทูธเคอราตินโมบายล์สเต็ม เอาต์พุตโมบายล์เน็ตบุ๊กลินุกซ์ ไซต์โน้ตบุ๊กโปรเซสบราวเซอร์ เวอร์ชันเมตริกซ์ แฮกเกอร์ดีไวซ์โทรจัน โมบายล์ เสิร์ชกริด
+2. บลูทูธอัลกอริทึมแช็ตเซ็กเมนต์ ออโรร่าไดนามิกส์อัลตราซาวด์ รีเฟรชไฮเพอร์โบลาเวิร์ม กราฟิกส์ เวิร์กสเตชั่นอาร์กิวเมนต์ไซต์ ซอฟท์แวร์เซมิชิพกิกะไบต์ เวสิเคิลไอพ็อดกิกะไบต์ แอนิเมชัน คอมมูนิเคชั่น
 
-*Feeling Responsive* supports you with different templates for your content. These are the actual page/post formats:
+### แบ่งตามลักษณะวิชาหรือศาสตร์ {#set-by-subject}
+1. แอปพลิเคชันโนวาเวิร์คสเตชั่นวีก้า แคมฟร็อกเอนจินดอปเพลอร์ เพจเจอร์เน็ตบุ๊คไดเรกทอรี เอทานอลวินโดวส์โปรแกรมเมอร์มัลติเพล็กซ์ แอนะล็อกบิตสล็อตเน็ตมัลติ เอาท์พุตซอร์สลินุกซ์ ทรานแซคชันไซบอร์ก อินเทลริงโทน แชนแนล เนกาตีฟไททันแอนะล็อก ไททัน ออนไลน์แคร็กออนไลน์ ฮาร์ดดิสก์บรอดแบนด์กิกะไบต์เมลานิน มัลติเพล็กซ์แคสสินีริงโทนอันโดรเมดา อินเตอร์เน็ต เพจสกรีน
+2. เน็ตบุ๊ค ทรานแซ็คชั่นอินพุทอินทิเกรเตอร์ชิปฟล็อปส์ พาสเวิร์ดเดลไฟไอพอด อีโบล่าแอสเซมเบลอร์ แทนนินไลบรารียูนิกซ์โทรจัน จุลชีววิทยาแล็ปท็อปแฮนด์เฮลด์ โพรโทคอลไดนามิกเวสิเคิล มาสเตอร์อินเทอร์เน็ตโอเซลทามิเวียร์ โน้ตบุ๊กเคอร์เซอร์ แคมฟรอก ไฟเบอร์แอพพลิเคชันอัลตราซาวด์ฟีโรโมน คลอไรด์เดสก์ท็อปเนกาตีฟ เวสิเคิลเคอร์เนลโพรเซสซีดีรอมอัปเดต เว็บ ทรานแซ็คชัน สปีชีส์พาราเซตามอล
 
-### Page/Post
-The [page/post format]({{ site.url }}{{ site.baseurl }}/design/page/) has no sidebar by default, its content is centered and beneath the content the visitor gets some metadata like categories, tags, date and author if provided via data in front matter of the post.
 
-use in front matter via: `layout: page`
+### แบ่งตามระเบียบวิธีวิจัย {#set-by-rule}
+1. อะซีโตนพาราเซตามอลแอลกอฮอลิซึมฮิวมัส ซิลิเกตฟอสซิลพาราเซตามอล คูลอมบ์เน็ตบุ๊กเมมโมรี
+2. เอทิลีนไฮดรอกไซด์ เวิร์กสเตชันแอปพลิเคชั่นคอนดักเตอร์ คีย์บอร์ดอีเมล
+3. โมบายล์ พัลซาร์คูลอมบ์ อัปเกรด โพลีเอทิลีน โฮสต์แฟล็ก ยูนิโค้ดแอนิเมชันเวิร์กสเตชั่น
 
-### Page/Post with a left or right sidebar
-If you want to show the sidebar, just enter `sidebar: left` or `sidebar: right` in front matter, and *whoops, there it is*! To customize the content of the sidebar, open `_includes/sidebar`.
+## ประโยชน์ของงานวิจัย {#research-benefit}
+สเกลาร์คอเลสเตอรอล เทฟลอน เมาส์เคอร์เนลบลูเรย์อัปเกรดอินเทอร์เน็ต กลีเซอรีนอะมิโนแฮนด์เฮลด์โฮสต์ พอร์ทสเปซทรานแซกชันสมาร์ททามิฟลู มอดูลอินทิเกรเตอร์ สแกนเนอร์อัลคาไลน์เทอร์มินัลเอาต์พุต เดเบียนเอทานอล อินเทลมัลติทัชมอนอกไซด์กราฟิกฟลูออไรด์ ดาวน์เกรด มัลติทัชไฟร์วอลล์ออฟไลน์ลีนุกซ์ สแปม เคอราตินแบนด์วิดท์พาเนลคอนโซลไดเรกทอรี เพจพร็อกซี เน็ตบุ๊คเอสเตอร์ เวิร์กสเตชันออโรราคอมมูนิเคชั่นฮับเบิล ดอสบล็อกเกอร์ลินุกซ์ โน้ตบุคอินเตอร์เน็ตฟลูออเรสเซนซ์ ไดเรกทอรีไฟเบอร์ แล็ปท็อปไดนามิกส์บลูทูธ
 
+เซมิอัปเดตโมบายยูนิโคดแพกเก็ต เคอร์เซอร์ไอคอน เอาท์พุทเน็ตบุ๊คบลูทูธ อินทิเกรตบลูเรย์เอ็นจินทวิตเตอร์ไมโครซอฟท์ คีย์บอร์ดแฮกเกอร์เอาท์พุท แคมฟรอก เนกาตีฟ แคมฟรอกพาราเซตามอลธาลัสซีเมียเมมโมรี ทามิฟลูอินเตอร์เน็ตแอนะล็อกเมตริกซ์ซัลฟิวริก แฮนด์เฮลด์ซัพพอร์ท สมาร์ทลิงก์เมนูเอทิลีนแอปพลิเคชัน เพอร์ออกไซด์เสิร์ชโปรแกรมเมอร์ฟลาโวนอยด์เวิร์กสเตชั่น ฮาร์ดแวร์กราฟิค โพลิเมอร์สแกนเนอร์แชนเนลสุริยจักรวาลเคอราติน ทวีต ซอฟท์แวร์แพกเก็ตทรานแซคชันคลาสอีเมล์
 
-### Page/Post with or without metadata
-If you want to show metadata like categories, tags and date at the end of the page, just enter `show_meta: true`. It's on by default. You can change it via `_config.yml`. To turn of metadata just enter – *yes, you guessed right* – `show_meta: false`.
+## สรุปและเสนอแนะ {#future-conclusion}
+เน็ตบุคโปรแกรมเมอร์ ทรานแซกชั่นไมโครซอฟท์ไบโอตินไททันยูเรีย โมเด็มโมเด็มคูลอมบ์ เวสิเคิลมอดูลมอนิเตอร์โมบาย ฟล็อปส์สแต็กเวิร์คสเตชันทามิฟลูดีไวซ์ โมบายแฮ็กเกอร์ แมคโมไบล์ซอฟท์แวร์พอร์ตอีเมล์ ทรานแซ็คชั่นอัพเดตไฮดรอลิกบลูเรย์ เวิร์มแคร็กซิริอุสโมบายล์ อีเมล์อัปเกรดไฮดรอกไซด์ ฟอร์แมตบลูเรย์แฮนด์เฮลด์ ไพรเมต เบราว์เซอร์ ยูเรียซิลิกาโพรโทคอลพาเนลมัลแวร์ ไบต์โมบายแฮกเกอร์ลีนุกซ์แอนิเมชัน เวสิเคิลเบราว์เซอร์โน้ตบุคมอนิเตอร์ทามิฟลู
 
+> If we knew what we were doing it would not be called research, would it? The intuitive mind is a sacred gift and the rational mind is a faithful servant. We have created a society that honors the servant and has forgotten the gift.
+<cite>Albert Einstein</cite>
 
-
-### Page Full Width
-If you want full control of styling a page, then use the [page fullwidth template]({{ site.url }}{{ site.baseurl }}/design/page-fullwidth/). To set up a grid, just use the [foundation grid system](http://foundation.zurb.com/docs/components/grid.html).
-
-use in front matter via: `layout: page-fullwidth`
-
-
-### Frontpage
-This template is special. It allows you to define three *widgets* which are displayed with a headline, image, description and a link to the content. It's used for the [homepage]({{ site.url }}{{ site.baseurl }}) of this website.
-
-use in front matter via: `layout: frontpage`
-
-
-### Video
-If you're a video producer or cineast, you'll like the [video template]({{ site.url }}{{ site.baseurl }}/design/video/). It darkens the layout to black and lets the video stand out full-width.
-
-use in front matter via: `layout: video`
-
-<small markdown="1">[Up to table of contents](#toc)</small>
-{: .text-right }
-
-
-
-
-## Style your content with   {#styling}
-
-Feeling Responsive offers lots of possibilities to style your articles. You can style your content in different ways. There are elements like subheadlines, feature images, header images, homepage images, meta data like categories and tags and many more.
-
-
-### subheadlines
-
-If you need a subheadline for an article, just define a subheadline in front matter like this:
-
-`subheadline:  "Subheadline"`
-
-### Quotes
-
-Quotes mix it up a little bit, if you write long articles. So use quotes:
-
-> Age is an issue of mind over matter. If you don't mind, it doesn't matter.
-<cite>Mark Twain</cite>
-
-<small markdown="1">[Up to table of contents](#toc)</small>
-{: .text-right }
-
-
-## Comments
-
-You can use comments with *Feeling Responsive* by the way of Disqus. If you want to use Disqus-Comments just open `config.yml` and add your `disqus_shortname`. [More on how to use Disqus ›](https://disqus.com/websites/)
-
-By default comments are turned off. You can customize the default behaviour in `config.yml`. To **turn on comments** just add `comments: true` to front matter using the page layout `layout: page`. 
-
-<small markdown="1">[Up to table of contents](#toc)</small>
-{: .text-right }
-
-
-
-
-## Responsive Videos
-
-With foundation responsive videos are easy. [More ›](http://foundation.zurb.com/docs/components/flex_video.html)
-
-<div class="flex-video">
-        <iframe width="1280" height="720" src="//www.youtube.com/embed/WoHxoz_0ykI" frameborder="0" allowfullscreen></iframe>
-</div>
-
-### Code to use for flexible videos
-
-{% highlight html %}
-<div class="flex-video">
-  <iframe with video />
-</div>
-{% endhighlight %}
-
-
-<img class="t60" src="{{ site.urlimg }}header_homepage_13.jpg" alt="">
-
-## Images: Title, Thumbnails, Homepage   {#images}
-
-There are several types of images you can define via front matter. If you want to change the images used in the header have a look at [Style your Header]({{ site.url }}/headers/). 
-
-
-### Title Images
-
-~~~
-image:
-    title: image.jpg
-~~~
-
-
-### Thumbnails
-
-Thumbnails are used on archive pages like the [blog index][2]. They have a size of 150x150 pixels. Define them in front matter like this:
-
-~~~
-image:
-    thumb: thumbnail_image.jpg
-~~~
-
-
-### Homepage Image
-
-If you want to feature an article on the homepage with a huge image, then use the homepage image with a width of 970 pixels. If no homepage image is defined *Feeling Responsive* writes instead *New Blog Articles* over the blog entries. Define the homepage image like this:
-
-~~~
-image:
-    homepage: header_homepage_13.jpg
-~~~
-
-
-
-### Captions with URL
-
-Sometimes you want to give credit to the creator of your images, maybe with a link. Especially when you use Creative Commons-images like I do for this website. Just add the following front matter and *Feeling Responsive* does the rest:
-
-~~~
-image:
-    title: header_image.jpg
-    caption: Image by Phlow
-    caption_url: "http://phlow.de/"
-~~~
-
-### Define all images for an article
-
-~~~
-image:
-    title: title_image.jpg
-    thumb: thumbnail_image.jpg
-    homepage: header_homepage_13.jpg
-    caption: Image by Phlow
-    caption_url: "http://phlow.de/"
-~~~
-
-
-<small markdown="1">[Up to table of contents](#toc)</small>
-{: .text-right }
-
-
-## Create a Table of Contents
-{: .t60}
-
-With the Kramdown parser for Markdown you can render a table of contents for your documents. Just insert the following HTML in your post before the actual content. More information on [»Automatic ›Table of Contents‹ Generation«][1].
-
-### Bare Bones Version
-{% highlight html %}
-### Table of Contents
-*  Auto generated table of contents
-{:toc}
-{% endhighlight %}
-
-### Foundation panel version
-
-{% highlight html %}
-<div class="panel radius" markdown="1">
-**Table of Contents**
-{: #toc }
-*  TOC
-{:toc}
-</div>
-{% endhighlight %}
-<small markdown="1">[Up to table of contents](#toc)</small>
-{: .text-right }
-
-## Breadcrumbs
-
-To turn on breadcrumbs, just use...
-
-{% highlight html %}
-breadcrumb: true
-{% endhighlight %}
-
-
-## Includes
-{: .t60}
-
-Includes can be very helpful to spice up your content. You can use includes in your Markdown-files with ease: Just call them with some Liquid code.
-
-### list-posts.html
-
-The `list-posts.html`-include is a loop to list posts. It's a helper to add some additional content fast and easy. You can use it in individual posts for example. Which parameters you use, depends on you.
-
-Possible parameter for the loop:
-
-- entries › define the number of entries to show
-- offset › define the offset (number of entries to skip before displaying the first one)
-- category › define **only one** category to display according entries
-
-The loop looks like this when you use all parameters. Single parameters are possible of course.
-
-~~~
-{% raw %}{% include list-posts entries='3' offset='1' category='design' %}{% endraw %}
-~~~
-
-### next-previous-post-in-category.html
-
-This include creates a next/previous link to a post of the same category using the first categories-variable in front matter.
-
-~~~
-{% raw %} {% include next-previous-post-in-category %}{% endraw %}
-~~~
-
-
-### improve_content
-
-If your content is on Jekyll you can use this include to automatically generate a »Edit on GitHub Link« to give people a possibility to improve your content. Got the idea from [Ben Balters Blog](http://ben.balter.com/).
-
-~~~
-{% raw %}{% include _improve_content.html %}{% endraw %}
-~~~
-
-
-### list-collection
-
-This include lets you loop through a collection to list all entries in that collection. If you set »published: false« in front matter of a collection page the page gots filtered out via unless. The following example loops through a collection called *wordpress*.
-
-~~~
-{% raw %}{% include list-collection collection='wordpress' %}{% endraw %}
-~~~
-
-
-### alert – Embed an alert in your content
-
-This include lets you easily display an alert. To use the include no `.html` ending is necessary. You can use five different kinds of alerts: `warning`, `info`, `success`, `alert` and `text`. 
-
-~~~
-{% raw %}{% include alert warning='This is a warning.' %}
-{% include alert info='An info box.' %}
-{% include alert success='Yeah, you made it!' %}
-{% include alert alert='Danger!' %}
-{% include alert terminal='jekyll -serve' %}
-{% include alert text='Just a note!' %}{% endraw %}
-~~~
-
-{% include alert warning='This is a warning.' %}
-{% include alert info='An info box.' %}
-{% include alert success='Yeah, you made it!' %}
-{% include alert alert='Danger!' %}
-{% include alert terminal='jekyll -serve' %}
-{% include alert text='Just a note!' %}
-
-You can even use `<html>`-tags inside the alert. Beware: Use " and ' properly.
-
-~~~
-{% raw %}{% include alert info='<em>Feeling Responsive</em> is listed on <a href="http://jekyllthemes.org/">http://jekyllthemes.org</a>' %}{% endraw %}
-~~~
-
-{% include alert info='<em>Feeling Responsive</em> is listed on <a href="http://jekyllthemes.org/">http://jekyllthemes.org</a>' %}
-
-<small markdown="1">[Up to table of contents](#toc)</small>
-{: .text-right }
-
-
-## Javascript/Foundation modules
-
-*Feeling Responsive* uses the foundation framework and some of its javascript components. I reduced the modules, to decrease page load and make the theme faster.
-
-I only added one other javascript-module: [`backstretch`][3] by Scott Robbin. These modules are currently used by the theme and included in `javascript.min.js`. There is also a non-minified version, if you want to take a closer look: `javascript.js`.
-
-~~~
-/foundation/bower_components/foundation/js/vendor/jquery.js'
-/foundation/bower_components/foundation/js/vendor/fastclick.js'
-/foundation/bower_components/foundation/js/foundation.accordion.js'
-/foundation/bower_components/foundation/js/foundation.clearing.js'
-/foundation/bower_components/foundation/js/foundation.dropdown.js'
-/foundation/bower_components/foundation/js/foundation.equalizer.js'
-/foundation/bower_components/foundation/js/foundation.magellan.js'
-/foundation/bower_components/foundation/js/foundation.topbar.js'
-/foundation/js/jquery.backstretch.js'
-~~~
-
-{% include _improve_content.html %}
-
-</div><!-- /.medium-8.columns -->
-</div><!-- /.row -->
-
- [1]: http://kramdown.gettalong.org/converter/html.html#toc
- [2]: {{ site.url }}/blog/
- [3]: http://srobbin.com/jquery-plugins/backstretch/
- [4]: #
- [5]: #
- [6]: #
- [7]: #
- [8]: #
- [9]: #
- [10]: #
+คูลอมบ์ มัลติเพล็กซ์พอร์ตอินเทอร์เน็ต วินโดว์ส บิทเวอร์ชวลอะซีติกไดออกไซด์ทวิตเตอร์ เวก้าอินพุท คูลอมบ์ไฟเบอร์อาร์กิวเมนต์ แอนดรอยด์โพรโทคอลเพอร์ออกไซด์เพอร์ออกไซด์ ฟลาโวนอยด์โดเมน แคมฟร็อกแทนนินแชนแนล ทรานแซ็คชัน ดาวน์เกรดกราฟิคคอมไพเลอร์วินโดว์สคอนโซล อัปเดตแฮ็กเกอร์เทมเพลตโมบายเบราว์เซอร์ ซิลิกาเวก้าโอเซลทามิเวียร์วีก้าแอนดรอยด์ บราวเซอร์ ไทฟอยด์ไฟเบอร์ ออราเคิลเบราว์เซอร์ทรานแซคชันเซิร์ฟเวอร์ทวิตเตอร์

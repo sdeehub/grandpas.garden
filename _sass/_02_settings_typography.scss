@@ -1,3 +1,4 @@
+@import url("https://fonts.googleapis.com/css?family=Athiti|Prompt");
 @charset "utf-8";
 /* TOC – Typography variables
 
@@ -22,8 +23,8 @@ $rem-base: $base-font-size;
 $base-line-height: 1.5 !default;
 
 
-$font-family-sans-serif: "Lato", "Helvetica Neue", Helvetica, Arial, sans-serif;
-$font-family-serif: "Volkhov", Georgia, Times, serif;
+$font-family-sans-serif: "Athiti", "Lato", "Helvetica Neue", Helvetica, Arial, sans-serif;
+$font-family-serif: "Prompt", "Volkhov", Georgia, Times, serif;
 $font-family-monospace: "Lucida Console", Monaco, monospace;
 
 $body-font-family: $font-family-sans-serif;
