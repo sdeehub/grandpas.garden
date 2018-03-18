@@ -12,9 +12,9 @@ tags:
     - personal improvement
     - internal activities
 header:
-    image_fullwidth: unsplash_eagle.jpg
-    caption: Image by Florian Klauer
-    caption_url: "http://florianklauer.de/"
+    image_fullwidth: jason-rosewell-60014-unsplash.jpg
+    caption: Photo by Jason Rosewell on Unsplash
+    caption_url: "https://unsplash.com/@jasonrosewell"
 image:
     # title: unsplash_eagle.jpg
     # caption: This is a caption for the header image with link

@@ -5,8 +5,8 @@ title: "การเขียนที่ดี"
 teaser: "อันโดรเมดาโปรเซสพิกเซลออนไลน์โปรเซส โปรโตคอลบรอดแบนด์ออฟไลน์ โน้ตบุคอะซีโตนอะซีโตน คีย์เดเบียนยากี้ ไบโอตินไดนามิคส์ไพธอน พันธุศาสตร์ออราเคิล แชนเนลมอดูลพาร์ทิชัน"
 header:
     image_fullwidth: library-la-trobe-study-students-159775.jpeg
-    caption: Image by Florian Klauer
-    caption_url: "http://florianklauer.de/"
+    caption: Image by Andrew Tan - Pixabay
+    caption_url: "https://pixabay.com/en/users/andrew_t8-1822880/"
 image:
     # title: header_typewriter-970.jpg
     # thumb:  typewriter-thumb.jpg
