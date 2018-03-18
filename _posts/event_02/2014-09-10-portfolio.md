@@ -10,6 +10,8 @@ tags:
     - personal improvement
 header:
     image_fullwidth: "daria-nepriakhina-370302-unsplash.jpg"
+    caption: Photo by Daria Nepriakhina on Unsplash
+    caption_url: "https://unsplash.com/@epicantus"
 show_meta: false
 ---
 <!--more-->

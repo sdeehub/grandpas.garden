@@ -14,6 +14,8 @@ tags:
     - social services
 header:
     image_fullwidth: "gallery-example-1.jpg"
+    caption: Unsplash.com
+    caption_url: http://unsplash.com
 image:
     # title: gallery-example-1.jpg
     # caption: Unsplash.com
