@@ -1,10 +1,10 @@
 ---
 layout: page
 subheadline: "อบรมเชิงปฏิบัติการ"
-title: "การเขียนบทความที่ดี"
+title: "การเขียนที่ดี"
 teaser: "อันโดรเมดาโปรเซสพิกเซลออนไลน์โปรเซส โปรโตคอลบรอดแบนด์ออฟไลน์ โน้ตบุคอะซีโตนอะซีโตน คีย์เดเบียนยากี้ ไบโอตินไดนามิคส์ไพธอน พันธุศาสตร์ออราเคิล แชนเนลมอดูลพาร์ทิชัน"
 header:
-    image_fullwidth: 5.jpg
+    image_fullwidth: library-la-trobe-study-students-159775.jpeg
     caption: Image by Florian Klauer
     caption_url: "http://florianklauer.de/"
 image:
