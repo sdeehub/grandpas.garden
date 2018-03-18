@@ -10,7 +10,7 @@ tags:
     - social services
 permalink: /design/grid/
 header:
-    image_fullwidth: "unsplash_brooklyn-bridge_header.jpg"
+    image_fullwidth: "plain-background-1600.jpg"
 image:
     thumb: "unsplash_brooklyn-bridge-thumb.jpg"
 show_meta: false

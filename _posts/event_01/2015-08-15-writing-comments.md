@@ -4,7 +4,7 @@ subheadline: "อบรมเชิงปฏิบัติการ"
 title: "การเขียนบทความที่ดี"
 teaser: "อันโดรเมดาโปรเซสพิกเซลออนไลน์โปรเซส โปรโตคอลบรอดแบนด์ออฟไลน์ โน้ตบุคอะซีโตนอะซีโตน คีย์เดเบียนยากี้ ไบโอตินไดนามิคส์ไพธอน พันธุศาสตร์ออราเคิล แชนเนลมอดูลพาร์ทิชัน"
 header:
-    image_fullwidth: D6.jpg
+    image_fullwidth: 5.jpg
     caption: Image by Florian Klauer
     caption_url: "http://florianklauer.de/"
 image:

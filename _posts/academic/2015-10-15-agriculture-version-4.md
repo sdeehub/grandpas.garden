@@ -13,7 +13,7 @@ tags:
   - video player
   - streaming music
   - blog
-show_meta: true
+show_meta: false
 #
 # Styling
 #

@@ -9,7 +9,7 @@ tags:
     - internal activity
     - personal improvement
 header:
-    image_fullwidth: "D4.jpg"
+    image_fullwidth: "daria-nepriakhina-370302-unsplash.jpg"
 show_meta: false
 ---
 <!--more-->
