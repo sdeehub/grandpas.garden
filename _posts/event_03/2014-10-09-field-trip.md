@@ -13,8 +13,8 @@ tags:
 image:
    # thumb: ".jpg"
 header:
-    image_fullwidth: "header_roadmap_2.jpg"
-    caption: This is a caption for the header image with link
+    image_fullwidth: "artiom-vallat-570464-unsplash.jpg"
+    caption: Photo by Artiom Vallat on Unsplash
     caption_url: https://unsplash.com/
 show_meta: false
 ---
