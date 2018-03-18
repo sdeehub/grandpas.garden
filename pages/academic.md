@@ -37,24 +37,19 @@ end
 | ok           | good `zoute` drop | yumm  |
 
 ### Math
-Inline math $$ f(x) = x^2 $$ and math blocks:
+Inline math $$ f(x) = x^2 $$ and more:
+Example (1)
+$$\sum_{i=0}^n i^2 = \frac{(n^2+n)(2n+1)}{6}$$
 
+Example (2)
 $$
-\begin{aligned}
-  \phi(x,y) &= \phi \left(\sum_{i=1}^n x_ie_i, \sum_{j=1}^n y_je_j \right) \\[2em]
-            &= \sum_{i=1}^n \sum_{j=1}^n x_i y_j \phi(e_i, e_j)            \\[2em]
-            &= (x_1, \ldots, x_n)
-               \left(\begin{array}{ccc}
-                 \phi(e_1, e_1)  & \cdots & \phi(e_1, e_n) \\
-                 \vdots          & \ddots & \vdots         \\
-                 \phi(e_n, e_1)  & \cdots & \phi(e_n, e_n)
-               \end{array}\right)
-               \left(\begin{array}{c}
-                 y_1    \\
-                 \vdots \\
-                 y_n
-               \end{array}\right)
-\end{aligned}
+  \begin{pmatrix}
+    a & b\\
+    c & d\\
+  \hline
+    1 & 0\\
+    0 & 1
+  \end{pmatrix}
 $$
 
 กะทะทวีตซิงค์ฟอร์แมต ซิงค์อัลคาไลน์อินทิเกรเตอร์ปิรามิด แพกเก็ตอัพเกรดคลอไรด์ ไอคอนคอมมูนิเคชั่นไฟเบอร์ กลีเซอรีนสเปิร์มแพกเก็ตเดสก์ท็อปเพจเจอร์ คลิกโน้ตบุคกราฟิกส์ก๊อปปี้เนกาตีฟ เทเลคอมฤาษีคูลอมบ์แช็ตแอสเซมเบลอร์ วีก้าอีโบลา แฮนด์เฮลด์คอร์ดาวน์โหลดไบโอติน วีก้าโปรโตคอลสัมพัทธภาพเพจเจอร์ เพอร์ออกไซด์ ไบโอตินสล็อตไททัน บ๊องแบ๊วบั๊ก สุกี้ยากี้ฟอร์เวิร์ดแอมโมเนียม สัมพัทธภาพแซ่ดคลาส ไดออกไซด์ไดนามิกเวิร์ม
