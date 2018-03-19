@@ -6,6 +6,8 @@ teaser: "ซัลไฟด์เกตเวย์อีโบลาอีโ�
 permalink: "/documentation/"
 header:
    image_fullwidth: "D5.jpg"
+   caption: Photo by chuttersnap on Unsplash
+   caption_url: https://unsplash.com/@chuttersnap
 ---
 ## นิยาม {#research-definition}
 

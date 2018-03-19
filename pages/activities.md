@@ -5,6 +5,8 @@ title: "กิจกรรมและโครงการต่างๆ"
 teaser: "โมบายล์เพจเจอร์ออฟไลน์บลูทูธอัปเดต คลีนิก ดีวีดีสล็อตเวอร์ชวลเมลามีนเมล เทมเพลต โพรโทคอลโมไบล์หล่ะ ดีวีดีทรานแซ็คชั่นไฮโดรลิก แคสสินี ซิริอุสโนวาเยภุยยสิกา"
 header:
    image_fullwidth: "D4.jpg"
+   caption: "Photo by Michał Parzuchowski on Unsplash"
+   caption_url: https://unsplash.com/@mparzuchowski
 permalink: "/activities/"
 ---
 
