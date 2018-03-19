@@ -10,7 +10,7 @@ tags:
     - social services
 permalink: /design/grid/
 header:
-    image_fullwidth: "todd-quackenbush-46468-unsplash.jpg"
+    image_fullwidth: todd-quackenbush-46468-unsplash.jpg
     caption: "Photo by Todd Quackenbush on Unsplash"
     caption_url: "https://unsplash.com/@toddquackenbush"
 image:
