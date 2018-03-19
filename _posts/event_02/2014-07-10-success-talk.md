@@ -13,7 +13,9 @@ tags:
     # - post format
     - alumni
 header:
-    image_fullwidth: "D8.jpg"
+    image_fullwidth: muhd-asyraaf-385275-unsplash.jpg
+    caption: Photo by Muhd Asyraaf on Unsplash
+    caption_url: https://unsplash.com/@8thshot
 image:
     # title: gallery-example-1.jpg
     # caption: Unsplash.com
