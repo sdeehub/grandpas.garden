@@ -13,9 +13,9 @@ tags:
     # - post format
     - social services
 header:
-    image_fullwidth: "gallery-example-1.jpg"
-    caption: Unsplash.com
-    caption_url: http://unsplash.com
+    image_fullwidth: stefan-stefancik-257625-unsplash.jpg
+    caption: Photo by Štefan Štefančík on Unsplash
+    caption_url: https://unsplash.com/@cikstefan
 image:
     # title: gallery-example-1.jpg
     # caption: Unsplash.com
