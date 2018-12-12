@@ -14,7 +14,7 @@ title: "GrandPa's Garden"
 slogan: "A Flexible GrandPa's Garden of the Nature"
 
 # The description is used on homepage and in the footer to quickly describe your website. Use a maximum of 150 characters for SEO-purposes.
-description: "SDEE's Real Life • บริษัท โซลูชั่น ดี จำกัด ‣ 328/139 ซอยสันนิบาตเทศบาล ถนนลาดพร้าว แขวงจันทรเกษม เขตจตุจักร กรุงเทพฯ 10900"
+description: "GrandPa's Garden • 303/2 ซอยลาดพร้าว 23 ถนนลาดพร้าว แขวงจันทรเกษม เขตจตุจักร กรุงเทพฯ 10900"
 
 # The credits show up in the includes/_footer.html – It would be nice of you to leave a link to Phlow or Feeling Responsive as a thank you :)
 credits: '<p>Created with &hearts; by <a href="http://phlow.de/">Phlow</a> with <a href="http://jekyllrb.com/" target="_blank">Jekyll</a> based on <a href="http://phlow.github.io/feeling-responsive/">Feeling Responsive</a>.</p>'
